@@ -8,11 +8,5 @@
   "record": {
     "CNAME": "eyus00.github.io"
   },
-  "proxied": true,
-  "redirect_config": {
-    "custom_paths": {
-      "/github": "https://github.com/eyus00"
-    },
-    "redirect_paths": true
-  }
+  "proxied": true
 }
